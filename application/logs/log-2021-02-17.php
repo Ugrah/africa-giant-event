@@ -1,0 +1,71 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-17 16:38:24 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/Grulog/Sites/africa_giant_event_v_1.0.0/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2021-02-17 16:38:24 --> Unable to connect to the database
+ERROR - 2021-02-17 16:38:47 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'intl.so' (tried: /Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so (dlopen(/Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so, 9): image not found), /Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so.so (dlopen(/Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so.so, 9): image not found)) Unknown 0
+ERROR - 2021-02-17 17:13:07 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:13:07 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:13:07 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:13:07 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:13:07 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:13:07 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:38 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:38 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:38 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:38 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:38 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:38 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:48 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:48 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library 'intl.so' (tried: /Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so (dlopen(/Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so, 9): image not found), /Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so.so (dlopen(/Applications/MAMP/bin/php/php7.4.9/lib/php/extensions/no-debug-non-zts-20190902/intl.so.so, 9): image not found)) Unknown 0
+ERROR - 2021-02-17 17:19:48 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:48 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:48 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:48 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:19:48 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:23 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:23 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:23 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:23 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:23 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:23 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:21:33 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:23:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:23:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:23:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:23:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:23:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:23:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:18 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:43 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:43 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:43 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:43 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:24:43 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:38:56 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:38:56 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:38:57 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:38:57 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:38:57 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:39:51 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:39:51 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:39:52 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:39:52 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:39:52 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:40:06 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:40:06 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:40:06 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:40:54 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:43:20 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:43:21 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:43:21 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:44:03 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:44:19 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:44:19 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:49:26 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:53:10 --> 404 Page Not Found: /index
+ERROR - 2021-02-17 17:53:25 --> 404 Page Not Found: /index
