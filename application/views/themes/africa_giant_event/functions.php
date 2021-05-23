@@ -22,6 +22,7 @@ function theme_assets()
     $groupName = $CI->app_scripts->default_theme_group();
 
     $CI->app_scripts->theme('bootstrap-js', 'assets/plugins/bootstrap/js/bootstrap.min.js');
+    // $CI->app_scripts->theme('bootstrap-js', 'assets/plugins/bootstrap/js/bootstrap.min.js');
 
     add_datatables_js_assets($groupName);
     add_jquery_validation_js_assets($groupName);

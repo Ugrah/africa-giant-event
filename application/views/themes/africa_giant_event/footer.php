@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed'); ?>
 <!-- Footer Section Begin -->
-<footer class="footer set-bg" data-setbg="<?php echo base_url('assets/img/footer-bg.jpg'); ?>">
+<footer class="footer set-bg" data-setbg="<?php echo base_url('assets/img/footer-bg.jpg'); ?>" style="">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -84,7 +84,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="footer__copyright">
+		<div class="footer__copyright d-none">
 			<div class="row">
 				<div class="col-lg-7 col-md-7">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->

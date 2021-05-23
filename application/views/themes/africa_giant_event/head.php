@@ -9,6 +9,15 @@
 	<?php echo compile_theme_css(); ?>
 	<script src="<?php echo base_url('assets/plugins/jquery/jquery.min.js'); ?>"></script>
 	<?php app_customers_head(); ?>
+	
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.min.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/elegant-icons.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/font-awesome.min.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/jquery-ui.min.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/nice-select.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/owl.carousel.min.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/slicknav.min.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/style.css'); ?>">
 </head>
 <body class="customers<?php if(is_mobile()){echo ' mobile';}?><?php if(isset($bodyclass)){echo ' ' . $bodyclass; } ?>" <?php if($isRTL == 'true'){ echo 'dir="rtl"';} ?>>
 	<?php hooks()->do_action('customers_after_body_start'); ?>

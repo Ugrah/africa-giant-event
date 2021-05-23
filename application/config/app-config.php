@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 * environments.
 *
 */
-define('APP_BASE_URL', 'http://localhost:8888/africa_giant_event_v_1.0.0/');
+define('APP_BASE_URL', 'http://localhost:8000/');
 
 /*
 * --------------------------------------------------------------------------
